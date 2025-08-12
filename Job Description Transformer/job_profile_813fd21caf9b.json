@@ -1,0 +1,205 @@
+{
+  "jobProfile": {
+    "JobId": "813fd21caf9b",
+    "coreDetails": {
+      "title": "Senior Software Engineer - Cloud Platform",
+      "jobSummary": "\n    Senior Software Engineer - Cloud Platform\n    \n    Join our innovative team to build the next generation of cloud infrastructure that serves millions of users worldwide.\n    \n    Responsibilities:\n    • Design and develop scalable cloud-based applications\n    • Improve system performance and reduce latency by 25%\n    • Collaborate with cross-functional teams to deliver high-quality software\n    • Mentor junior developers and contribute to architectural decisions\n    • Implement best practic",
+      "employmentType": {
+        "agreement": "Employee",
+        "schedule": "Full-time",
+        "term": "Permanent"
+      },
+      "jobLocation": {
+        "type": "HYBRID",
+        "applicantLocationRequirement": "Global"
+      },
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "responsibilities": {
+      "keyObjectives": [
+        {
+          "objective": "Improve system performance and reduce latency by 25%",
+          "timeframe": "6 months",
+          "metric": "Performance Metric"
+        },
+        {
+          "objective": "reduce latency by 25%",
+          "timeframe": "6 months",
+          "metric": "Performance Metric"
+        }
+      ],
+      "dayToDayDuties": [
+        "Design and develop scalable cloud",
+        "Collaborate with cross",
+        "Mentor junior developers and contribute to architectural decisions",
+        "Implement best practices for security and reliability",
+        "5+ years of experience in software development",
+        "flexible work arrangements, and opportunities for professional growth.",
+        "Our culture values innovation, collaboration, and work"
+      ],
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "qualifications": {
+      "skills": {
+        "technical": [
+          "r",
+          "scala",
+          "go",
+          "kubernetes",
+          "java",
+          "python",
+          "aws",
+          "docker"
+        ],
+        "soft": [
+          "communication",
+          "collaboration"
+        ]
+      },
+      "experience": {
+        "requiredYears": 5,
+        "description": "experience in software development"
+      },
+      "education": {
+        "requiredCredential": "Master's Degree in Computer Science",
+        "acceptsExperienceInLieu": true
+      },
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "companyContext": {
+      "culture": "We value collaboration and innovation.",
+      "growthOpportunities": "Opportunities for professional development and career advancement.",
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "compensation": {
+      "salary": {
+        "min": 120000,
+        "max": 160000,
+        "currency": "USD"
+      },
+      "benefits": [],
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "interviewGuidance": {
+      "competencyProfile": [
+        {
+          "competency": "R",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Scala",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Go",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Kubernetes",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Java",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Communication",
+          "importance": "Medium",
+          "assessmentMethod": "Behavioral Interview"
+        },
+        {
+          "competency": "Collaboration",
+          "importance": "Medium",
+          "assessmentMethod": "Behavioral Interview"
+        }
+      ],
+      "assessmentPlan": [],
+      "interviewFlow": [
+        {
+          "stage": "Technical Round",
+          "objective": "Evaluate technical skills and problem-solving approach",
+          "durationMinutes": 60,
+          "mode": "Live Coding + Discussion",
+          "evaluators": [
+            "Senior Engineer",
+            "Tech Lead"
+          ],
+          "questions": [
+            {
+              "questionText": "Design a scalable web application architecture",
+              "type": "Open-Ended",
+              "topic": "System Design",
+              "expectedSkills": [
+                "Architecture",
+                "Scalability",
+                "System Design"
+              ]
+            },
+            {
+              "questionText": "Explain Python's GIL and its implications for multithreading",
+              "type": "Discussion",
+              "topic": "Python",
+              "expectedSkills": [
+                "Python",
+                "Concurrency"
+              ]
+            }
+          ]
+        },
+        {
+          "stage": "Behavioral Round",
+          "objective": "Assess cultural fit and soft skills",
+          "durationMinutes": 45,
+          "mode": "One-on-One",
+          "evaluators": [
+            "Engineering Manager"
+          ],
+          "questions": [
+            {
+              "questionText": "Tell me about a challenging project you worked on and how you overcame obstacles",
+              "type": "Behavioral",
+              "topic": "Problem Solving",
+              "expectedSkills": [
+                "Problem Solving",
+                "Resilience",
+                "Communication"
+              ]
+            },
+            {
+              "questionText": "How do you explain complex technical concepts to non-technical stakeholders?",
+              "type": "Reflective",
+              "topic": "Communication",
+              "expectedSkills": [
+                "Communication",
+                "Technical Writing",
+                "Stakeholder Management"
+              ]
+            }
+          ]
+        }
+      ],
+      "customTags": [],
+      "extraNotes": "Tailor questions based on candidate's background and experience level."
+    },
+    "meta": {
+      "schemaVersion": "v1.1",
+      "source": "NLP-Driven Extraction",
+      "lastUpdated": "1753711622",
+      "customFields": {
+        "processingMethod": "spaCy + Transformers",
+        "confidenceScore": 0.85,
+        "extractionTimestamp": "2025-07-28T19:37:02.755474"
+      }
+    }
+  }
+}

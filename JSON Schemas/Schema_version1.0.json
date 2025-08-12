@@ -1,0 +1,58 @@
+{
+  "jobProfile": {
+    "coreDetails": {
+      "title": "Senior Software Engineer",
+      "jobSummary": "Join our team to lead the development of our next-generation cloud platform, directly impacting millions of users.",
+      "employmentType": {
+        "agreement": "Employee",
+        "schedule": "Full-time",
+        "term": "Permanent"
+      },
+      "jobLocation": {
+        "type": "TELECOMMUTE",
+        "applicantLocationRequirement": "USA"
+      }
+    },
+    "responsibilities": {
+      "keyObjectives": [
+        {
+          "objective": "Improve API latency by 20% in Q3",
+          "timeframe": "6 months",
+          "metric": "P95 Latency"
+        }
+      ],
+      "dayToDayDuties": []
+    },
+    "qualifications": {
+      "skills": {
+        "technical": [],
+        "soft": []
+      },
+      "experience": {
+        "requiredYears": 5,
+        "description": "Experience building and maintaining high-traffic, distributed systems."
+      },
+      "education": {
+        "requiredCredential": "Bachelor's Degree in Computer Science",
+        "acceptsExperienceInLieu": true
+      }
+    },
+    "companyContext": {
+      "culture": "We value collaboration, continuous learning, and a healthy work-life balance.",
+      "growthOpportunities": "This role has a clear path to a Principal Engineer position. We offer a $5,000 annual learning stipend."
+    },
+    "compensation": {
+      "salary": {
+        "min": 120000,
+        "max": 150000,
+        "currency": "USD"
+      },
+      "benefits": []
+    },
+    "interviewGuidance": {
+      "competencyProfile": [],
+      "assessmentPlan": [],
+      "interviewFlow": []
+    }
+  }
+}

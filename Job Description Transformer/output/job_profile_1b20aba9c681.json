@@ -1,0 +1,269 @@
+{
+  "jobProfile": {
+    "JobId": "1b20aba9c681",
+    "coreDetails": {
+      "title": "Senior Software Engineer - Cloud Platform",
+      "jobSummary": "Senior Software Engineer - Cloud Platform\n        \n        Join our innovative team to build the next generation of cloud infrastructure \n        that serves millions of users worldwide. We're looking for a passionate engineer \n        who thrives in a collaborative environment.\n        \n        Responsibilities:\n        • Design and develop scalable cloud-based applications using Python and Go\n        • Improve system performance and reduce API latency by 25% over the next 6 months\n        • Co",
+      "employmentType": {
+        "agreement": "Intern",
+        "schedule": "Internship",
+        "term": "Permanent"
+      },
+      "jobLocation": {
+        "type": "HYBRID",
+        "applicantLocationRequirement": "Global"
+      },
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "responsibilities": {
+      "keyObjectives": [
+        {
+          "objective": "Improve system performance and reduce API latency by 25%",
+          "timeframe": "6 months",
+          "metric": "Performance Metric"
+        },
+        {
+          "objective": "reduce API latency by 25%",
+          "timeframe": "6 months",
+          "metric": "Performance Metric"
+        }
+      ],
+      "dayToDayDuties": [
+        "Design and develop scalable cloud",
+        "Collaborate with cross",
+        "Mentor junior developers and contribute to architectural decisions",
+        "Implement best practices for security, monitoring, and reliability",
+        "Lead code reviews and ensure coding standards",
+        "5+ years of experience in software development with focus on distributed systems",
+        "Leadership experience mentoring team members",
+        "Knowledge of machine learning frameworks",
+        "dental and vision coverage, 401k matching, flexible work arrangements, unlimited PTO,",
+        "Our culture values innovation, collaboration, and work"
+      ],
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "qualifications": {
+      "skills": {
+        "technical": [
+          "postgresql",
+          "javascript",
+          "aws",
+          "go",
+          "redis",
+          "java",
+          "react",
+          "python",
+          "docker",
+          "kubernetes"
+        ],
+        "soft": [
+          "communication",
+          "leadership",
+          "collaboration",
+          "mentoring"
+        ]
+      },
+      "experience": {
+        "requiredYears": 5,
+        "description": "experience in software development with focus on distributed systems"
+      },
+      "education": {
+        "requiredCredential": "Master's Degree in Computer Science",
+        "acceptsExperienceInLieu": true
+      },
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "companyContext": {
+      "culture": "Our culture values innovation, collaboration, and work-life balance. We believe in \n        continuous learning and provide opportunities for professional growth through \n        conferences, training",
+      "growthOpportunities": "through \n        conferences, training, and internal mobility programs.\n        ",
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "compensation": {
+      "salary": {
+        "min": 120000,
+        "max": 160000,
+        "currency": "USD"
+      },
+      "benefits": [
+        "Health Insurance",
+        "Dental",
+        "Vision",
+        "401K",
+        "Pto",
+        "Stock Options",
+        "Learning Stipend"
+      ],
+      "customTags": [],
+      "extraNotes": ""
+    },
+    "interviewGuidance": {
+      "competencyProfile": [
+        {
+          "competency": "Postgresql",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Javascript",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Aws",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Go",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Redis",
+          "importance": "High",
+          "assessmentMethod": "Technical Interview"
+        },
+        {
+          "competency": "Communication",
+          "importance": "Medium",
+          "assessmentMethod": "Behavioral Interview"
+        },
+        {
+          "competency": "Leadership",
+          "importance": "Medium",
+          "assessmentMethod": "Behavioral Interview"
+        },
+        {
+          "competency": "Collaboration",
+          "importance": "Medium",
+          "assessmentMethod": "Behavioral Interview"
+        }
+      ],
+      "assessmentPlan": [],
+      "interviewFlow": [
+        {
+          "stage": "Technical Round",
+          "objective": "Evaluate technical skills and problem-solving approach",
+          "durationMinutes": 60,
+          "mode": "Live Coding + Discussion",
+          "evaluators": [
+            "Senior Engineer",
+            "Tech Lead"
+          ],
+          "questions": [
+            {
+              "questionText": "Design a scalable web application architecture for high traffic",
+              "type": "Open-Ended",
+              "topic": "System Design",
+              "expectedSkills": [
+                "Architecture",
+                "Scalability",
+                "System Design"
+              ]
+            },
+            {
+              "questionText": "Explain Python's memory management and garbage collection",
+              "type": "Discussion",
+              "topic": "Python",
+              "expectedSkills": [
+                "Python",
+                "Memory Management"
+              ]
+            },
+            {
+              "questionText": "Design a database schema for an e-commerce platform",
+              "type": "Open-Ended",
+              "topic": "Database Design",
+              "expectedSkills": [
+                "Database Design",
+                "SQL",
+                "Data Modeling"
+              ]
+            },
+            {
+              "questionText": "How would you deploy a microservices application on the cloud?",
+              "type": "Discussion",
+              "topic": "Cloud Architecture",
+              "expectedSkills": [
+                "Cloud Computing",
+                "DevOps",
+                "Microservices"
+              ]
+            }
+          ]
+        },
+        {
+          "stage": "Behavioral Round",
+          "objective": "Assess cultural fit and soft skills",
+          "durationMinutes": 45,
+          "mode": "One-on-One",
+          "evaluators": [
+            "Engineering Manager"
+          ],
+          "questions": [
+            {
+              "questionText": "Tell me about a challenging project you worked on and how you overcame obstacles",
+              "type": "Behavioral",
+              "topic": "Problem Solving",
+              "expectedSkills": [
+                "Problem Solving",
+                "Resilience",
+                "Communication"
+              ]
+            },
+            {
+              "questionText": "Describe a time when you had to lead a team through a difficult situation",
+              "type": "Behavioral",
+              "topic": "Leadership",
+              "expectedSkills": [
+                "Leadership",
+                "Team Management",
+                "Decision Making"
+              ]
+            },
+            {
+              "questionText": "How do you explain complex technical concepts to non-technical stakeholders?",
+              "type": "Reflective",
+              "topic": "Communication",
+              "expectedSkills": [
+                "Communication",
+                "Technical Writing",
+                "Stakeholder Management"
+              ]
+            },
+            {
+              "questionText": "Tell me about a time you had to work with a difficult team member",
+              "type": "Behavioral",
+              "topic": "Teamwork",
+              "expectedSkills": [
+                "Collaboration",
+                "Conflict Resolution",
+                "Empathy"
+              ]
+            }
+          ]
+        }
+      ],
+      "customTags": [],
+      "extraNotes": "Tailor questions based on candidate's background and experience level."
+    },
+    "meta": {
+      "schemaVersion": "v1.1",
+      "source": "NLP-Driven Extraction",
+      "lastUpdated": "1753712736",
+      "customFields": {
+        "processingMethod": "Pattern Matching + NLP",
+        "nlpToolsUsed": {
+          "spacy": true,
+          "nltk": false,
+          "transformers": true
+        },
+        "extractionTimestamp": "2025-07-28T19:55:36.641182"
+      }
+    }
+  }
+}

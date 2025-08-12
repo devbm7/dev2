@@ -1,0 +1,96 @@
+venv/
+__pycache__/
+
+# Logs
+logs/
+
+# Keys
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Environments
+env/
+venv/
+job_parser_env/
+# Ignore the virtual environment
+Job Description Transformer/job_parser_env/
+
+
+# VS Code settings
+.vscode/
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts  
+poc/rf-detr-nano.pth
+poc/sessions/capture_data.json
+poc/shape_predictor_68_face_landmarks.dat
+poc/sessions/capture_data1.json
+poc/sessions/
+GEMINI.md
+AUTH_SETUP.md
+database-schema.sql
+GOOGLE_OAUTH_SETUP.md
+PROFILE_FEATURE.md
+PHASE1_IMPROVEMENTS.md
+phase2_summary.md
+/poc/recordings
+.cursor/
+database-migration.sql
+database-resume-migration.sql
+RESUME_SETUP_GUIDE.md
+*.sql
+SUPABASE_STORAGE_SETUP.md
+JARVIS-UI-README.md
+SERIN-UI-README.md
+rf-detr-nano.pth
+DEBUG.md

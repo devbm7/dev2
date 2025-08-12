@@ -1,0 +1,130 @@
+{
+  "jobProfile": {
+    "JobId": "altair-9031",
+    "coreDetails": {
+      "title": "Senior Software Engineer",
+      "jobSummary": "Join our team to lead the development of our next-generation cloud platform, directly impacting millions of users.",
+      "employmentType": {
+        "agreement": "Employee",
+        "schedule": "Full-time",
+        "term": "Permanent"
+      },
+      "jobLocation": {
+        "type": "TELECOMMUTE",
+        "applicantLocationRequirement": "USA"
+      },
+      "customTags": [],
+      "extraNotes": ""
+    },
+
+    "responsibilities": {
+      "keyObjectives": [
+        {
+          "objective": "Improve API latency by 20% in Q3",
+          "timeframe": "6 months",
+          "metric": "P95 Latency"
+        }
+      ],
+      "dayToDayDuties": [],
+      "customTags": [],
+      "extraNotes": ""
+    },
+
+    "qualifications": {
+      "skills": {
+        "technical": [],
+        "soft": []
+      },
+      "experience": {
+        "requiredYears": 5,
+        "description": "Experience building and maintaining high-traffic, distributed systems."
+      },
+      "education": {
+        "requiredCredential": "Bachelor's Degree in Computer Science",
+        "acceptsExperienceInLieu": true
+      },
+      "customTags": [],
+      "extraNotes": ""
+    },
+
+    "companyContext": {
+      "culture": "We value collaboration, continuous learning, and a healthy work-life balance.",
+      "growthOpportunities": "This role has a clear path to a Principal Engineer position. We offer a $5,000 annual learning stipend.",
+      "customTags": [],
+      "extraNotes": ""
+    },
+
+    "compensation": {
+      "salary": {
+        "min": 120000,
+        "max": 150000,
+        "currency": "USD"
+      },
+      "benefits": [],
+      "customTags": [],
+      "extraNotes": ""
+    },
+
+    "interviewGuidance": {
+      "competencyProfile": [],
+      "assessmentPlan": [],
+      "interviewFlow": [
+        {
+          "stage": "Technical Round",
+          "objective": "Evaluate the candidate's system design skills and problem-solving approach.",
+          "durationMinutes": 60,
+          "mode": "Live Coding + Discussion",
+          "evaluators": ["Senior Engineer", "Tech Lead"],
+          "questions": [
+            {
+              "questionText": "Design a scalable URL shortening service.",
+              "type": "Open-Ended",
+              "topic": "System Design",
+              "expectedSkills": ["Architecture", "Scalability", "Caching"]
+            },
+            {
+              "questionText": "What trade-offs would you consider between consistency and availability in microservices?",
+              "type": "Discussion",
+              "topic": "Distributed Systems",
+              "expectedSkills": ["CAP Theorem", "Decision Making"]
+            }
+          ]
+        },
+        {
+          "stage": "Behavioral Round",
+          "objective": "Assess alignment with company values and interpersonal communication.",
+          "durationMinutes": 45,
+          "mode": "One-on-One",
+          "evaluators": ["Engineering Manager"],
+          "questions": [
+            {
+              "questionText": "Tell me about a time you had a conflict in a team. How did you resolve it?",
+              "type": "Behavioral",
+              "topic": "Conflict Resolution",
+              "expectedSkills": ["Communication", "Empathy", "Team Collaboration"]
+            },
+            {
+              "questionText": "How do you prioritize learning new technologies with delivering current responsibilities?",
+              "type": "Reflective",
+              "topic": "Time Management",
+              "expectedSkills": ["Curiosity", "Planning"]
+            }
+          ]
+        }
+      ],
+      "customTags": [],
+      "extraNotes": "Each interview stage should progress logically and allow the agent to escalate or de-escalate based on candidate performance."
+    },
+
+    "meta": {
+      "schemaVersion": "v1.1",
+      "source": "Agent-Driven Entry",
+      "lastUpdated": "1753370769",
+      "customFields": {
+        "hardwareRequirement": "High-performance workstation",
+        "timezoneOverlap": "4 hours with EST",
+        "clearance": "None"
+      }
+    }
+  }
+}
