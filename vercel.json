@@ -13,6 +13,6 @@
     }
   ],
   "env": {
-    "FASTAPI_BASE_URL": "@fastapi_base_url"
+    "FASTAPI_BASE_URL": "https://your-fastapi-server.railway.app"
   }
 }

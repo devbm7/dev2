@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-const FASTAPI_BASE_URL = process.env.FASTAPI_BASE_URL || 'http://localhost:8000';
+const FASTAPI_BASE_URL = 'https://your-fastapi-server.railway.app'; // Replace with your actual FastAPI server URL
 
 export async function GET(
   request: NextRequest,

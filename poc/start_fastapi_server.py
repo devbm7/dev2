@@ -109,10 +109,10 @@ def main():
     check_config_file()
     check_supabase_config()
     
-    # Get server configuration
-    host = os.getenv("FASTAPI_HOST", "0.0.0.0")
-    port = int(os.getenv("FASTAPI_PORT", "8000"))
-    reload = os.getenv("FASTAPI_RELOAD", "false").lower() == "true"
+    # Get server configuration (hardcoded)
+    host = "0.0.0.0"
+    port = 8000
+    reload = False
     
     # SSL configuration
     ssl_keyfile = os.getenv("SSL_KEYFILE")

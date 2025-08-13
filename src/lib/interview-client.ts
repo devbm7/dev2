@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000';
+const API_BASE_URL = 'https://your-nextjs-app.vercel.app'; // Replace with your actual Vercel app URL
 
 export interface InterviewSession {
   session_id: string;

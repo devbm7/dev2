@@ -22,11 +22,11 @@ def get_gemini_api_key() -> Optional[str]:
     api_key = os.environ.get('GEMINI_API_KEY')
     
     if not api_key:
-        # Set default key for development
-        default_key = "AIzaSyD-987BdBsdKnCa7oWZktY9_1K27hS-qY8"
-        os.environ['GEMINI_API_KEY'] = default_key
-        print("Using default Gemini API key. For production, set GEMINI_API_KEY environment variable.")
-        return default_key
+        # Set hardcoded key
+        hardcoded_key = "AIzaSyA_lZ78Rf_J9lCBqpu4hFaHSzYopB4CY0Y"
+        os.environ['GEMINI_API_KEY'] = hardcoded_key
+        print("Using hardcoded Gemini API key.")
+        return hardcoded_key
     
     return api_key
 
