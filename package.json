@@ -20,7 +20,12 @@
     "backend:manager": "node scripts/backend-manager.js",
     "dev:full": "concurrently \"npm run dev\" \"npm run backend:dev\"",
     "dev:https": "concurrently \"npm run dev\" \"npm run backend:https\"",
-    "dev:managed": "concurrently \"npm run dev\" \"npm run backend:start\""
+    "dev:managed": "concurrently \"npm run dev\" \"npm run backend:start\"",
+    "deploy:vercel": "vercel --prod",
+    "deploy:railway": "cd poc && railway up",
+    "deploy:render": "echo 'Deploy to Render via dashboard'",
+    "test:api": "curl http://localhost:3000/api/interview/health",
+    "test:fastapi": "curl http://localhost:8000/health"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.1",

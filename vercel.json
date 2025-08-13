@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/interview/(.*)",
+      "dest": "/api/interview/$1"
+    }
+  ],
+  "env": {
+    "FASTAPI_BASE_URL": "@fastapi_base_url"
+  },
+  "functions": {
+    "src/app/api/interview/[...path]/route.ts": {
+      "maxDuration": 300
+    }
+  }
+}
