@@ -14,10 +14,5 @@
   ],
   "env": {
     "FASTAPI_BASE_URL": "@fastapi_base_url"
-  },
-  "functions": {
-    "src/app/api/interview/[...path]/route.ts": {
-      "maxDuration": 300
-    }
   }
 }
